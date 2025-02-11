@@ -5,7 +5,6 @@
  * user scrolls so that they can constantly reach any part of your page.
  */
 import React from "react";
-
 const Header = () => {
   return (
     <div
